@@ -1,1 +1,1 @@
-web: java -jar -Dserver.port=$PORT target/events-1.0.0.jar
+web: java -Dserver.port=$PORT -jar target/events-1.0.0.jar
